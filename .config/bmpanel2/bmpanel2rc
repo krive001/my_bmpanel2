@@ -1,0 +1,10 @@
+theme sajat
+
+launchbar
+	exec urxvt
+		icon /usr/share/pixmaps/terminator.png
+	exec firefox
+		icon /usr/share/icons/HighContrast/22x22/apps/firefox.png
+	exec urxvt -e htop
+		icon /usr/share/pixmaps/htop.png
+	
